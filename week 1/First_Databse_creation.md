@@ -34,3 +34,5 @@ This would display the database named Emp.
 
 ## Screenshots
 
+![screenshot 1](https://user-images.githubusercontent.com/36096530/42769574-1ec1420c-8940-11e8-8e2f-552dde2f49c6.png)
+![screenshot 2](https://user-images.githubusercontent.com/36096530/42769579-284dce26-8940-11e8-8a41-798889dd5360.png)
