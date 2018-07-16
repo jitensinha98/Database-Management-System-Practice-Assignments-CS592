@@ -7,5 +7,5 @@ This repository contains the DBMS programming tasks assigned by our college as h
 [Click Here to Download](https://goo.gl/EiVxCJ)
 
 ## Login Details
-- Username : System
-- Password : Oracle
+- **Username**: System
+- **Password**: Oracle
