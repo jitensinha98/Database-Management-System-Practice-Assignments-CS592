@@ -31,3 +31,6 @@ Executing this would execute the last command and hence can be used to insert mu
 select * from Emp
 ```
 This would display the database named Emp.
+
+## Screenshots
+
